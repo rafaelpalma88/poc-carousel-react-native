@@ -1,3 +1,13 @@
+# Carousel simples para uso no React Native
+
+Desenvolvi este carrousel sob medida para um projeto, porém, adicionei este nesta POC para que eu possa utilizar no futuro.
+
+Sua implementação é muito simples, basta instalar algumas dependências (como por exemplo styled-components) e utilizá-lo como um compnente qualquer.
+
+O componente espera receber os itens renderizados através da prop "items".
+
+Em breve vou aprimorar esta documentação pois agora estou com pressa pra entregar essa task :)
+
 # My Universal React Project
 
 <p>
